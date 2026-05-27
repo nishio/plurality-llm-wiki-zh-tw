@@ -3,14 +3,35 @@
 > 直近 7 日分のみ。全件 compact 履歴は [log.txt](log.txt)、それより古い entry の詳細は `git log -- wiki/log.md` で参照。
 > 更新は `python3 scripts/refresh_logs.py` で log.txt と log.md を再生成する。
 
-## [2026-05-27 12:00] ingest | 初期化：CLAUDE.md, index.md, 初の concept と source
+## [2026-05-27 14:30] ingest | 第一輪 ingest: 繁體中文最新 Plurality 材料
 
 
 
-zh-tw 子 wiki を新規 scaffold。LT [[words-as-public-goods-lt]] (parent) で言及される「漢字が二言語間の道になる」観察を実地検証する基盤。
+從 [plurality.net/zh](https://www.plurality.net/zh/) 收集 18 份 raw 材料 (《[[多元宇宙一書中文版]]》各章節摘要)，ingest 為:
 
-最初の page set:
-- source: [[為何我是多元宇宙人]] — Glen Weyl 2022 PDIS 平台 (CC BY-NC-SA 4.0)
-- concept: [[多元]] — Plurality の zh-tw 訳語 (書本基底)。変体: 多元宇宙 (Glen Weyl PDIS) / 多元性 (直譯)
+- **5 件 source**:
+  - [[多元宇宙一書中文版]] (書本整體 overview)
+  - [[數位觀照]] (1 序言)
+  - [[玉山視野章]] (2-1)
+  - [[數位民主的日常章]] (2-2)
+  - [[我們遺忘的道章]] (3-3)
 
-parent `correspondences.yaml` の Plurality 行に zh-tw column を追加。parent CLAUDE.md / index.md にも plurality-llm-wiki-zh-tw を列挙。
+- **22 件 concept**:
+  - 思想根源: [[數位]] [[失落之道]] [[連結社會]] [[控制論]] [[三民主義]] [[亨利·喬治]] [[太陽花運動]]
+  - 機制設計: [[多元投票]] [[平方投票]] [[平方融資]] [[流動民主]] [[杜瓦傑法則]] [[擴增審議]] [[廣泛聆聽]] [[自適應行政]] [[社會市場]] [[生成式基礎模型]] [[數據聯盟]]
+  - 自由與政策: [[身分與人格權]] [[近用]] [[政策]] [[數位公共基礎建設]] [[利害關係人企業]] [[協作技術與民主]]
+  - 台灣脈絡: [[玉山視野]] [[數位民主]] [[總統盃黑客松]] [[監控資本主義]]
+
+- **5 件 entity**: [[唐鳳]] [[衛谷倫]] [[g0v]] [[PDIS]] [[高嘉良]]
+
+- **2 件既存頁更新**: [[多元]] と [[為何我是多元宇宙人]] に Updates section 追加。
+
+### 主要發現
+
+1. **「數位」 = digital + plural 的中文版獨有雙重意涵**: [[數位觀照]] 序言明示。⿻ 記號詞源根據。
+2. **三民主義承接鏈**: [[亨利·喬治]] → 孫中山 [[三民主義]] (民生主義) → 中華民國憲法 → 今日台灣 [[社會市場]] 機制。本書 2-1 / 3-2 / 5-7 章一貫貫穿。
+3. **「平方投票」是 ja→ 漢字 bridge 不通過的稀有例**: ja 採用 katakana loanword「クアドラティック投票」、zh 採漢字翻譯「[[平方投票]]」。
+
+### parent 側との関係
+
+parent `correspondences.yaml` の zh-tw 列の dangling reference を主に解消する向き。新規概念ページの追加で parent 側 update が必要かは別途 lint で確認。
