@@ -2,6 +2,8 @@
 
 多語 [plurality-llm-wiki](https://github.com/nishio/plurality-llm-wiki) wiki 森林的**繁體中文（台灣）版**。繁體中文「多元宇宙」論述中的概念體系 ── 來源包括 Glen Weyl 與 Audrey Tang 的原文中文寫作、PDIS 出版物、Plurality 一書中文版、台灣社群討論等。
 
+**公開網站:** https://nishio.github.io/plurality-llm-wiki-zh-tw/
+
 ## 與兄弟 wiki 的關係
 
 本 wiki **自主**。頁面不必是 [en 側 wiki](https://github.com/nishio/plurality-llm-wiki-en) 或 [ja 側 wiki](https://github.com/nishio/plurality-llm-wiki-ja) 的翻譯，也不必有對應。各語言以不同方式分節（articulate）概念空間，差異本身即為 parent wiki 森林的觀察與分析對象。
