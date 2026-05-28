@@ -3,7 +3,55 @@
 > 直近 7 日分のみ。全件 compact 履歴は [log.txt](log.txt)、それより古い entry の詳細は `git log -- wiki/log.md` で参照。
 > 更新は `python3 scripts/refresh_logs.py` で log.txt と log.md を再生成する。
 
+## [2026-05-28 17:30] ingest | 第二輪 ingest: GitHub API workaround で繁體中文資源取得
+
+
+
+並列 JA / EN subagent と同様の `gh api` workaround によって, 前回 subagent が諦めた領域を実際に探索。多くの主要資源が GitHub 経由でアクセス可能と確認。
+
+### 取得した raw 資料 (38 ファイル)
+
+1. **pluralitybook/plurality 繁體中文 manuscript** (21 章): 第一輪未取得分の章節原稿を upstream GitHub から直接取得 ([[多元宇宙一書上游手稿]])。
+2. **audreyt/civic.ai** (12 ファイル): [[仁工智慧計畫]] (Civic AI · 關懷六力) の繁體中文 tw-*.md 全集核心部分。Caroline Green と[[唐鳳]] が 2025-2026 牛津 AI 倫理研究院で発展させた framework。
+3. **g0v/g0v.tw** (3 ファイル): [[g0v宣言]]、about、faq の公式繁體中文文書。
+4. **PDIS/web-jekyll** (11 ファイル): [[唐鳳PDIS專欄]] 2022-2024 の代表的記事。
+
+### 新規ページ
+
+- **source (9)**: [[多元宇宙一書上游手稿]] [[結社與多元公眾章]] [[後符號交流章]] [[媒體章]] [[環境章]] [[商業與信任章]] [[仁工智慧計畫]] [[g0v宣言]] [[唐鳳PDIS專欄]]
+- **concept (13)**:
+  - 新通訊: [[後符號交流]] [[沉浸式共享實境]]
+  - 自由與政策: [[結社自由]] [[多元公眾]] [[數位簽章]]
+  - 機制設計: [[對齊大會]] [[我城對談]]
+  - 仁工智慧: [[仁工智慧]] [[地神]] [[關懷六力]] と 6 力 ([[覺察力]] [[負責力]] [[勝任力]] [[回應力]] [[團結力]] [[共生力]])
+- **entity (3)**: [[TAIDE]] [[Jaron-Lanier]] [[Tenzin-Yangtso]]
+- **meta**: [[wishlist]]
+- **既存頁更新 (3)**: [[g0v]] [[唐鳳]] [[數位公共基礎建設]]
+
+### 最も興味深い発見 Top 3
+
+1. **「仁工智慧」(Civic AI) という同音替字翻訳**: 「人工」→「仁」(儒家 benevolence) と置換。zh-tw 翻訳伝統中の「字義新生」戦略の先駆例。en の "civic" を「公民」「市民」と訳さず「仁」で表現することで, 概念が儒家倫理と直結。
+2. **「窩心」翻訳問題と TAIDE モデル**: Llama 2 が「窩心」を nervous と誤訳, [[TAIDE]] は touched と正確。これは台湾標準語 (positive) vs 中国大陸用法 (negative) の語料差異の具体例で, 「文化主権」と AI 主権の本質的連結を示す。
+3. **[[地神]] (Kami) の翻訳選択**: 日本神道「神 / カミ」を zh-tw が「神明」「土地公」「神祇」を避けて「地神」と訳す。「地」(local) を最大化する選択で, 仁工智慧の「在地、有界、可退場」設計原則と完全一致。
+
+### 失敗源 (詳見 [[wishlist]])
+
+7 candidate 群すべて GitHub access では不十分:
+- PDIS sayit archive (機構直接 web 必要)
+- 報導者 / 端傳媒 (paywall)
+- 總統盃黑客松年次成果報告 (PDF only)
+- 中央研究院学術論文 (paywall / PDF)
+- g0v hackmd (非 GitHub platform)
+- audreyt 個人 blog (確認待ち)
+- 法律文書 (法規網站 only)
+
+### parent 側との関係
+
+新規概念 ([[仁工智慧]] [[地神]] [[關懷六力]] [[對齊大會]] 等) は en / ja 側にも対応がある可能性高い。次回 parent `correspondences.yaml` の update が必要。
+
 ## [2026-05-27 14:30] ingest | 第一輪 ingest: 繁體中文最新 Plurality 材料
+
+
 
 
 

@@ -5,41 +5,70 @@
 
 三民主義	concept	concepts/三民主義.md	孫中山 (孫逸仙) 提出的政治哲學，包含民族主義、民權主義、民生主義。在 Plurality 思想體系中，三民主義特別是民生主義 (受 [[亨利·喬治]] 啟發) 被視為 [[社會市場]] 機制的台灣本土思想根源。
 亨利·喬治	concept	concepts/亨利·喬治.md	Henry George (1839-1897) 美國經濟學家。「亨利·喬治定理」奠定了 [[平方融資]] 等 [[社會市場]] 機制的數學基礎。透過孫中山 [[三民主義]] 民生主義影響台灣，「臺灣持續崇敬亨利·喬治的思想」(本書 3-2)。
+仁工智慧	concept	concepts/仁工智慧.md	Civic AI 的繁體中文標準譯語。[[唐鳳]]與 Caroline Green 主導, 2025-2026 在牛津 AI 倫理研究院發展的框架。從 Joan Tronto 的關懷倫理出發, 設計「有界、在地、可問責」的 AI 系統 ([[地神]]) 而非全能的中心化模型。
+共生力	concept	concepts/共生力.md	Plurality 的繁體中文標準譯語 (作為[[關懷六力]]第六力時)。核心問題: 系統是否保持在地、有界、可退場, 而不是硬化成永久統治？
 利害關係人企業	concept	concepts/利害關係人企業.md	Stakeholder Capitalism / Stakeholder Corporations 的繁體中文標準譯語。將公司的直接控制權交給客戶、供應商和工人。本書 7-0 [[政策]] 章作為反壟斷的替代補救方案提出。
+勝任力	concept	concepts/勝任力.md	Competence 的繁體中文標準譯語。[[關懷六力]]第三力。核心問題: 系統是否真的在實務上可稽核、可解釋、能安全試錯？
 協作技術與民主	concept	concepts/協作技術與民主.md	Collaborative Technology and Democracy 的繁體中文標準譯語。本書第 5 部分主章標題 (5-0)。涵蓋 5-1 後符號交流到 5-7 [[社會市場]] 的全套機制。
+回應力	concept	concepts/回應力.md	Responsiveness 的繁體中文標準譯語。[[關懷六力]]第四力。核心問題: 受影響的人能否提出異議、要求修復、讓系統改變？
+團結力	concept	concepts/團結力.md	Solidarity 的繁體中文標準譯語。[[關懷六力]]第五力。核心問題: 整個生態系統是否獎勵合作、退出與公開問責, 而不是平台鎖定？
+地神	concept	concepts/地神.md	Kami 的繁體中文標準譯語。[[仁工智慧]] 框架中 AI 部署的基本單位 ── 有界、在地、可問責、可關閉的守護者。對立於全能中心化 AI ("園丁"、"統治者")。源自日本神道, 但在仁工智慧脈絡中發展出獨特意涵。
 多元	concept	concepts/多元.md	「多元」是 Plurality 在繁體中文（台灣）語境中的主要譯語，源於 Plurality 一書 en/zh 雙語出版傳統。基底簡稱「多元」，Glen Weyl 在 PDIS 平台寫作中採用更具空間隱喻的「多元宇宙」變體，而「多元性」則為直譯選擇。en Plurality / ja プルラリティ 的對應概念。
+多元公眾	concept	concepts/多元公眾.md	Plural Publics 的繁體中文標準譯語。超越「公開 vs 私密」二分法的中間狀態 ── 多個社群同時擁有共同信念並受保護不被外部監視。本書 4-2 章為核心論述。
 多元投票	concept	concepts/多元投票.md	Plural Voting 的繁體中文標準譯語。本書 5-6 ⿻投票章涵蓋的廣義機制群: 涵蓋 [[平方投票]]、[[流動民主]]、Quadratic-pairs 等。ja 與 zh-tw 完全同形「多元投票」 — 漢字 bridge 的最強案例。
 太陽花運動	concept	concepts/太陽花運動.md	2014 年 3 月 18 日起台灣學生抗議服貿協定的社會運動。在 Plurality 論述中被定位為「具建設性的民主轉變」典範，與後續數位民主、公民協作平台的興起緊密相關。
 失落之道	concept	concepts/失落之道.md	The Lost Dao 的繁體中文標準譯語。本書 3-3 章標題，指早期網際網路先驅 (Wiener, Licklider, Engelbart, Nelson, Berners-Lee) 追求的多元願景，因 1970 年代公共投資撤出而未能實現。
+對齊大會	concept	concepts/對齊大會.md	Alignment Assembly 的繁體中文標準譯語。台灣與 CIP.org、OpenAI、Anthropic 等合作的大規模 AI 對齊審議機制。透過 Polis 與「[[我城對談]]」(Talk to the City) 等工具讓全民參與 AI 安全議題。
 平方投票	concept	concepts/平方投票.md	Quadratic Voting (QV) 的繁體中文標準譯語。Plurality 論述中的核心投票機制，源於統計學家 Lionel Penrose。台灣 [[總統盃黑客松]] 採用平方投票進行最終結果決選。
 平方融資	concept	concepts/平方融資.md	Quadratic Funding (QF) 的繁體中文標準譯語。配對資金按個人貢獻平方根之和的平方分配，給予大量小額捐款者比少數大額捐款者更高的權重。實踐案例為 GitCoin Grants。
 廣泛聆聽	concept	concepts/廣泛聆聽.md	Broad Listening 的繁體中文標準譯語。讓決策者能廣泛聽取多元意見的方法論。本書 5-4 [[擴增審議]] 章為核心論述。日語版「ブロードリスニング」是安野貴博 2024 東京都知事選的核心方法。
+後符號交流	concept	concepts/後符號交流.md	Post-Symbolic Communication 的繁體中文標準譯語。Jaron Lanier 創造的術語, 指超越語言和符號的直接、身臨其境的共享體驗。透過神經介面、中介實境、生成式 AI 等技術實現。本書 5-1 章為核心論述。
+我城對談	concept	concepts/我城對談.md	Talk to the City 的繁體中文標準譯語。由 AI Objectives Institute 開發, 在台灣與 Polis 整合的 LLM 輔助公民審議工具。提供即時 AI 摘要、翻譯和互動, 讓每個人能與多元意見群體進行細膩對話。
 控制論	concept	concepts/控制論.md	Cybernetics 的繁體中文標準譯語。Norbert Wiener (1947) 創立的學科。本書 3-3 [[失落之道]] 章揭示控制論為「多元宇宙」的理論前驅 — 跟隨者包括瑪格麗特·米德、戴明、比爾。
 擴增審議	concept	concepts/擴增審議.md	Augmented Deliberation 的繁體中文標準譯語。利用 AI / LLM 增強多人審議的機制。台灣 vTaiwan 使用 Pol.is 是本書 5-4 章的核心案例。Talk to the City 為新興 LLM 應用方向。
 政策	concept	concepts/政策.md	Plurality 政策建議的繁體中文標準譯語。本書第 7-0 章。包括「集中運算資產稅」「數位土地稅」「數據聯盟集體議價」「利害關係人企業改革」「數位部長國際網絡」等具體政策方案。
 數位	concept	concepts/數位.md	「數位」是台灣華語中既有的詞，具有 digital + plural 的雙重意涵。本書中文版序言 (數位觀照) 將此作為核心宣言，是 ⿻ 記號的詞源根源。
 數位公共基礎建設	concept	concepts/數位公共基礎建設.md	Digital Public Infrastructure (DPI) 的繁體中文標準譯語。本書 7-0 [[政策]] 章主軸: 政府應將 GDP 約 1% 用於數位公共研究與基礎建設，由公民社會主導開發。
 數位民主	concept	concepts/數位民主.md	Digital Democracy 的繁體中文標準譯語。台灣特殊脈絡: 「數位」的雙重意涵 (digital + plural) 使「數位民主」自然攜帶「多元民主」的隱喻。本書 2-2 章 [[數位民主的日常章]] 為核心。
+數位簽章	concept	concepts/數位簽章.md	Digital Signature 的繁體中文標準譯語。在台灣《電子簽章法》(2024 修法) 下, 數位簽章效力等同印鑑證明。是 deepfake 反詐騙的關鍵基礎, 即「以 AI 治 AI」的核心防線。
 數據聯盟	concept	concepts/數據聯盟.md	Data Coalitions 的繁體中文標準譯語。代表資料主體進行集體談判的新型組織形式。本書中文版 5-5、6-4、7-0 多處論述。台灣具體案例: 民生公共物聯網數據聯盟。
 杜瓦傑法則	concept	concepts/杜瓦傑法則.md	Duverger's Law 的繁體中文標準譯語。單一名額選區制 (FPTP) 導致兩黨制的政治學定律。本書 5-6 ⿻投票章引用，說明傳統投票制度導致「兩害相權取其輕」局面，正是 [[平方投票]] 等機制要解決的問題。
+沉浸式共享實境	concept	concepts/沉浸式共享實境.md	Immersive Shared Reality 的繁體中文標準譯語。VR / AR / XR 技術下的共享體驗。本書 5-2 章為核心論述, 與 5-1 [[後符號交流]]構成「未來通訊」雙篇章。
 流動民主	concept	concepts/流動民主.md	Liquid Democracy 的繁體中文標準譯語。讓任何選民可將投票權委託給其他人，被委託者可再委託，實現自下而上的新興代表制。書中 5-6 ⿻投票章列為主要機制之一，但指出其權力集中的缺點。
 玉山視野	concept	concepts/玉山視野.md	從台灣本土視角觀看多元思想 — 《多元宇宙》第 2-1 章的核心隱喻。玉山是台灣最高峰，象徵以本土立基的全球視野。本章亦闡述 [[三民主義]] 與 Plurality 思想的繼承關係。
 生成式基礎模型	concept	concepts/生成式基礎模型.md	Generative Foundation Models (GFM) 的繁體中文標準譯語。LLM、Diffusion Model 等的合稱。本書 5-5 [[自適應行政]] 章為核心。⿻ 框架下 GFM 應為公共財，避免技術專家治理的集中化威脅。
 監控資本主義	concept	concepts/監控資本主義.md	Surveillance Capitalism 的繁體中文標準譯語。Shoshana Zuboff 提出的概念，指利用使用者數據追求利潤的商業模式。本書 2-0 [[日益擴大的鴻溝]] 章將其列為 Plurality 反對的兩種失敗路線之一 (集中化威脅)。
 社會市場	concept	concepts/社會市場.md	Social Markets 的繁體中文標準譯語。結合市場活力與多元協作形式的創新體系。本書 5-7 章核心。以 [[平方融資]]、GitCoin Grants 為實踐案例。受 [[亨利·喬治]] 思想啟發。
+結社自由	concept	concepts/結社自由.md	Freedom of Association 的繁體中文標準譯語。在 Plurality 框架下, 結社自由 = 「建立共同信念和共同目標的自由」。是《多元宇宙》一書 4-2 章的核心概念之一, 與[[身分與人格權]]「互為表裡, 有如陰陽般密不可分」。
 總統盃黑客松	concept	concepts/總統盃黑客松.md	台灣總統府主辦的黑客松活動。透過 [[平方投票]] 決選優勝隊伍，由「公務員、第三部門、學者、活動和技術專家組成的混合隊伍」競賽，獲得政治授權實施成果。本書 2-2 為核心案例。
 自適應行政	concept	concepts/自適應行政.md	Adaptive Administration 的繁體中文標準譯語。透過 [[生成式基礎模型]] 讓行政系統「接受更加多樣化和非結構化的輸入」。本書 5-5 章主軸。「適應式行政」是另一個常見譯法。
+覺察力	concept	concepts/覺察力.md	Attentiveness 的繁體中文標準譯語。[[關懷六力]]的第一力, 對應 Joan Tronto 關懷倫理的第一階段。核心問題: 制度還沒看見、但最接近痛點的人已經看見了什麼？
+負責力	concept	concepts/負責力.md	Responsibility 的繁體中文標準譯語。[[關懷六力]]第二力。核心問題: 誰負責、握有什麼權限、失敗時會發生什麼事？
 身分與人格權	concept	concepts/身分與人格權.md	Identity and Personhood 的繁體中文標準譯語。本書 4-1 章標題。「身分系統是數位生活的核心」— 探討三類身分認證機制及去中心化身份 (DID) 願景。
 近用	concept	concepts/近用.md	Access 的繁體中文標準譯語。本書 4-5 章名。強調「具完整性的存取」 — 不僅是技術連接，還包括資訊未經竄改。「近用」一語在台灣標準譯法中保留「近距離使用」的字面意涵。
 連結社會	concept	concepts/連結社會.md	Connected Society 的繁體中文標準譯語。Danielle Allen 的概念，指「可迅速形成跨越差異橋樑的社會紐帶」。本書 3-2、3-3 為核心章節。是 Plurality 的社會學底層願景。
+關懷六力	concept	concepts/關懷六力.md	Six Cares 的繁體中文標準譯語。[[仁工智慧]] 的 6 個設計原則。將 Joan Tronto 的關懷倫理轉化為制度可建造、檢查、修正的做法, 依序為覺察力 → 負責力 → 勝任力 → 回應力 → 團結力 → 共生力。
+Jaron-Lanier	entity	entities/Jaron-Lanier.md	美國電腦科學家、作曲家、視覺藝術家。「虛擬實境」(VR) 一詞的創造者, 也是「[[後符號交流]]」(Post-symbolic communication) 概念的提出者。《多元宇宙》一書中文版「名家推薦」推薦人之一, 5-1 章的核心引用對象。
 PDIS	entity	entities/PDIS.md	PDIS (Public Digital Innovation Space, 行政院公共數位創新空間)，唐鳳擔任政務委員時期的政府內公民協作平台。[[衛谷倫]] 2022「[[為何我是多元宇宙人]]」即發表於 PDIS blog。
-g0v	entity	entities/g0v.md	g0v (零時政府)，2012 年由 [[高嘉良]] 等人成立的台灣公民黑客社群。「全球前 3 的知名公民黑客社群」。COVID 期間口罩地圖、[[太陽花運動]] 直播、vTaiwan 等台灣數位民主的核心力量。
-唐鳳	entity	entities/唐鳳.md	唐鳳 (Audrey Tang)，台灣首任數位發展部部長 (2022-2024)、《[[多元宇宙]]》一書共同作者。為 Plurality 思想體系的標誌性實踐者，將台灣定位為「⿻的明燈和象徵」。
+TAIDE	entity	entities/TAIDE.md	台灣自主研發的繁體中文 AI 語言模型, 由 AI 評測中心評測。可正確翻譯「窩心」為 touched (而非 Llama 2 誤譯的 nervous)。是台灣在「文化主權」與 AI 對齊上的具體實踐。
+Tenzin-Yangtso	entity	entities/Tenzin-Yangtso.md	與[[唐鳳]] 共同照料 jdd-kami (一個[[仁工智慧]]) 的研究者 / 作者。在「⿻存在」(tw-plurality-being.md) 一文中思考矽與心靈交匯點上的生存邏輯與生命意義。藏文姓名暗示與藏傳佛教文化或達賴喇嘛圈的關聯。
+g0v	entity	entities/g0v.md	g0v (零時政府)，2012 年由 [[高嘉良]] 等人成立的台灣公民黑客社群。「全球前 3 的知名公民黑客社群」。COVID 期間口罩地圖、[[太陽花運動]] 直播、vTaiwan 等台灣數位民主的核心力量。[[g0v宣言]]是其官方價值聲明。
+唐鳳	entity	entities/唐鳳.md	唐鳳 (Audrey Tang)，台灣首任數位發展部部長 (2022-2024)、《[[多元宇宙]]》一書共同作者。為 Plurality 思想體系的標誌性實踐者，將台灣定位為「⿻的明燈和象徵」。2025-2026 在牛津 AI 倫理研究院與 Caroline Green 主導[[仁工智慧]]計畫。
 衛谷倫	entity	entities/衛谷倫.md	衛谷倫 (E. Glen Weyl)，政治經濟學家、Plurality 概念的主要理論家、《[[多元宇宙]]》一書共同作者。RadicalxChange 創始人、微軟研究院多元協作中心研究總監、Plurality Institute 共同創辦人。
 高嘉良	entity	entities/高嘉良.md	高嘉良 (Chia-liang Kao, clkao)，[[g0v]] (零時政府) 社群創始人之一。台灣公民黑客運動的關鍵人物。
+g0v宣言	source	sources/g0v宣言.md	[[g0v]] (零時政府) 的官方宣言, 2019.10.20 最後修訂版。透過 GitHub 的 g0v/g0v.tw repo 取得。宣示 g0v 的價值: 多中心運作、自主貢獻、實踐公民參與、成果開放、改變現狀。
+wishlist	source	sources/wishlist.md	嘗試取得但無法 access 的 source 列表。等待人類手動取得協助。
+仁工智慧計畫	source	sources/仁工智慧計畫.md	唐鳳與 Caroline Green 主導的「仁工智慧 (Civic AI) · 關懷六力」計畫 (2025-2026)。從 Joan Tronto 的關懷倫理出發, 將 AI 設計為有界、在地、可問責的「地神」(Kami) 而非中心化「園丁」。包含 6 個設計原則 (覺察力、負責力、勝任力、回應力、團結力、共生力) 與一系列繁體中文長文 (tw-*.md)。
+唐鳳PDIS專欄	source	sources/唐鳳PDIS專欄.md	唐鳳於行政院 PDIS (公共數位創新空間) 期間 (2022-2024) 撰寫的每月專欄合集。透過 PDIS/web-jekyll repo (Jekyll source) 取得。本 wiki 第二輪 ingest 摘取了 10 篇與多元宇宙概念直接相關的文章。
+商業與信任章	source	sources/商業與信任章.md	《多元宇宙》一書 4-3 章「商業與信任」(Commerce and Trust)。論述貨幣的歷史與局限、多元通貨 (多中心結構社群貨幣)、分散式人際債務系統、社會脈絡下的信任。重點論證在社會性消費與超模生產的脈絡下「貨幣是糟糕的價值記錄方式」。
+多元宇宙一書上游手稿	source	sources/多元宇宙一書上游手稿.md	[[多元宇宙一書中文版]] 的 GitHub 上游 manuscript（pluralitybook/plurality）。包含 35 個繁體中文章節 markdown 原稿，由唐鳳與 ⿻ Community 持續編輯。本 wiki 第二輪 ingest 從此 source 取得了 plurality.net/zh 未曾從中提取的多章節原文。
 多元宇宙一書中文版	source	sources/多元宇宙一書中文版.md	E. Glen Weyl 與唐鳳合著《多元宇宙》(Plurality) 一書的繁體中文官方版，由全球志願者社群協作翻譯。CC0 授權。本書是繁體中文 Plurality 論述的標準文獻，涵蓋 30 餘節，從序言「數位觀照」到結語完整呈現多元思想體系。
+媒體章	source	sources/媒體章.md	《多元宇宙》一書 6-3 章「媒體」(Media)。論述數位技術如何改變新聞與媒體, 包括同理心媒體、公民合作新聞、加密安全消息來源、多元公共媒體、感受極化 (affective polarization) 的緩解。
+後符號交流章	source	sources/後符號交流章.md	《多元宇宙》一書 5-1 章「後符號交流」(Post-Symbolic Communication)。Jaron Lanier 創造的術語，超越語言和符號界限的直接、身臨其境的共享體驗。本章探討神經介面、中介實境、生成式 AI 等技術。
 我們遺忘的道章	source	sources/我們遺忘的道章.md	《多元宇宙》中文版第 3-3 章「我們遺忘的道」(The Lost Dao)。詳述早期網際網路先驅 (Wiener, Licklider, Engelbart, Nelson, Berners-Lee) 的多元願景及其在 1970 年代之後的逐漸喪失。
 數位民主的日常章	source	sources/數位民主的日常章.md	《多元宇宙》中文版第 2-2 章「數位民主的日常」。集中介紹台灣數位民主的具體實踐: 口罩地圖、Join 平台、總統盃黑客松、g0v。
 數位觀照	source	sources/數位觀照.md	《多元宇宙》一書的繁體中文序言 (1 數位觀照)。明示「數位」在華語脈絡中的雙重意涵 (digital + plural)，是中文版定位的關鍵宣言。
 為何我是多元宇宙人	source	sources/為何我是多元宇宙人.md	Glen Weyl 於 2022-02-10 在台灣 PDIS（行政院公共數位創新空間）平台發表的繁體中文長文「為何我是多元宇宙人」(Why I Am a Pluralist 的中文版)。多元主義作為社會哲學與技術方向的系統性自我陳述。CC BY-NC-SA 4.0。
 玉山視野章	source	sources/玉山視野章.md	《多元宇宙》中文版第 2-1 章「玉山視野」。從台灣本土視角描述太陽花運動、唐鳳生涯、三民主義與多元思想的繼承關係。本章是本書中文版地緣定位最強的一章。
+環境章	source	sources/環境章.md	《多元宇宙》一書 6-4 章「環境」(Environment)。論述數據聯盟、開源環境感測網絡 (LASS) 等台灣公民科技實踐, 自然法人 (legal personhood of rivers) 法律地位, 以及自然環境 AI 基礎模型。
+結社與多元公眾章	source	sources/結社與多元公眾章.md	《多元宇宙》一書 4-2 章「結社與多元公眾」。原文 Association and Plural Publics。論述「結社自由 = 建立共同信念與共同目標的自由」、多元公眾 vs 二分法的公私之別、隱私強化技術 (零知識證明、安全多方計算、機密運算、差分隱私、聯邦學習)、社群信任與外部監視之張力。
