@@ -22,6 +22,8 @@
 - [[三民主義]] — 孫中山與台灣本土思想根源
 - [[亨利·喬治]] — George 經濟學的影響鏈
 - [[太陽花運動]] — 2014 公民運動
+- [[一元原子論]] — 兩條失敗路線的共同形上學 (新)
+- [[狹窄走廊]] — Acemoglu & Robinson 的概念 (新)
 
 ### 機制設計
 - [[多元投票]] — Plural Voting 機制群
@@ -38,21 +40,34 @@
 - [[對齊大會]] — Alignment Assembly (新)
 - [[我城對談]] — Talk to the City (新)
 
-### 自由與政策
-- [[身分與人格權]] — Identity and Personhood
-- [[結社自由]] — Freedom of Association (新)
-- [[多元公眾]] — Plural Publics (新)
-- [[近用]] — Access
+### 自由與政策 (Section 4 章)
+- [[身分與人格權]] — Identity and Personhood (4-1)
+- [[結社與多元公眾]] — Association and Plural Publics (4-2, 新)
+- [[結社自由]] — Freedom of Association
+- [[多元公眾]] — Plural Publics
+- [[商業與信任]] — Commerce and Trust (4-3, 新)
+- [[財產與契約]] — Property and Contract (4-4, 新)
+- [[近用]] — Access (4-5)
 - [[政策]] — 政策建議群
 - [[數位公共基礎建設]] — DPI
 - [[利害關係人企業]] — Stakeholder Capitalism
 - [[協作技術與民主]] — 5 部主題
 - [[數位民主]] — 台灣的雙關特殊性
-- [[數位簽章]] — Digital Signature (新)
+- [[數位簽章]] — Digital Signature
+- [[⿻管理協定]] — Plural Management Protocol (新)
+- [[去中心化自治組織]] — DAO (新)
+- [[無條件基本收入]] — UBI (新)
+- [[網路國家]] — Network State (新)
+- [[預測式治理]] — Futarchy (新)
 
-### 未來通訊
-- [[後符號交流]] — Post-Symbolic Communication (新)
-- [[沉浸式共享實境]] — Immersive Shared Reality (新)
+### 未來通訊 (Section 5 機制章)
+- [[後符號交流]] — Post-Symbolic Communication (5-1)
+- [[後符號溝通]] — 同概念的譯語變體 (新)
+- [[沉浸式共享實境]] — Immersive Shared Reality (5-2)
+- [[沉浸式共享現實]] — 同概念的譯語變體 (新)
+- [[創意協作]] — Creative Collaborations (5-3, 新)
+- [[通用人工智慧]] — AGI (新)
+- [[超模性]] — Supermodularity (新)
 
 ### 仁工智慧 (Civic AI, 2025-2026)
 - [[仁工智慧]] — Civic AI 框架
@@ -60,8 +75,21 @@
 - [[關懷六力]] — Six Cares 設計原則
   - [[覺察力]] · [[負責力]] · [[勝任力]] · [[回應力]] · [[團結力]] · [[共生力]]
 
-### 風險與對立
+### 風險與對立 (Foil concepts)
 - [[監控資本主義]] — Surveillance Capitalism
+- [[技術專家治理]] — Technocracy / 專家統治 (新)
+- [[技術官僚]] — Technocrat (新, 役職名 split from ideology)
+- [[自由意志主義]] — Libertarianism / 放任主義 (新)
+- [[自由意志主義者]] — Libertarian (新, 役職名 split)
+- [[中央集權]] — Centralization (新)
+- [[反社會]] — Anti-social (新)
+- [[國家]] — State (新)
+- [[資本主義]] — Capitalism (新)
+
+### 鈴木健の系譜 (JA 起源, zh-tw 漢字 bridge)
+- [[分人]] — dividual (新)
+- [[分人民主主義]] — divicracy (新)
+- [[PICSY]] — Propagational Investment Currency System (新)
 
 ### 台灣本土實踐
 - [[太陽花運動]] — 2014 公民運動

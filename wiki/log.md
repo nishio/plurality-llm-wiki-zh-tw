@@ -3,7 +3,59 @@
 > 直近 7 日分のみ。全件 compact 履歴は [log.txt](log.txt)、それより古い entry の詳細は `git log -- wiki/log.md` で参照。
 > 更新は `python3 scripts/refresh_logs.py` で log.txt と log.md を再生成する。
 
+## [2026-05-28 21:30] ingest | 第三輪: pending pages 解消 (Section 4 章 + foil 概念 + Section 5 メカニズム + JA 起源概念)
+
+
+parent `correspondences.yaml` zh-tw 列の pending references 26 件 → 0 件に解消する目的で、本書中文版 + 上游 manuscript の既存材料を元に 22 件の新 concept page を作成。
+
+### 新規 concept pages (22 件)
+
+**Section 4 章 (book chapter concept)**:
+- [[結社與多元公眾]] (4-2 章 concept page)
+- [[商業與信任]] (4-3 章 concept page)
+- [[財產與契約]] (4-4 章 concept page)
+
+**Foil 概念 (Plurality 反対路線)**:
+- [[技術專家治理]] (Technocracy / 専家統治)
+- [[技術官僚]] (Technocrat, ja-zh-tw 共通の role-noun split)
+- [[自由意志主義]] (Libertarianism / 放任主義)
+- [[自由意志主義者]] (Libertarian, 同様 role-noun split)
+- [[一元原子論]] (Monist Atomism, 失敗路線の共通基盤)
+- [[狹窄走廊]] (Narrow Corridor, Acemoglu & Robinson)
+
+**Section 5 機制章**:
+- [[後符號溝通]] (後符號交流 の譯語變體, parent registry 採用語)
+- [[沉浸式共享現實]] (沉浸式共享實境 の譯語變體, parent registry 採用語)
+- [[創意協作]] (5-3 章)
+
+**AI / Policy concepts**:
+- [[通用人工智慧]] (AGI)
+- [[無條件基本收入]] (UBI)
+- [[網路國家]] (Network State)
+- [[預測式治理]] (Futarchy)
+- [[⿻管理協定]] (Plural Management Protocol)
+- [[去中心化自治組織]] (DAO)
+- [[超模性]] (Supermodularity)
+
+**漢字 bridge concepts (zh-tw / ja 共有)**:
+- [[中央集權]] · [[反社會]] · [[國家]] · [[資本主義]]
+
+**JA 起源 (鈴木健の系譜)**:
+- [[分人]] · [[分人民主主義]] · [[PICSY]]
+
+### 興味深い発見
+
+1. **譯語並用の発見**: 後符號交流 vs 後符號溝通, 沉浸式共享實境 vs 沉浸式共享現實 — book manuscript と parent registry で異なる譯語を採用しており、両方を保持することで「翻譯實踐の人工物」として記録した。zh-tw 翻譯傳統がまだ標準化していない領域の証拠。
+2. **役職名 / ideology split が ja-zh-tw 共通**: 技術專家治理 / 技術官僚 と 自由意志主義 / 自由意志主義者 は二語で分けるのが ja と zh-tw で共通する慣行。EN 側は ideology のみ page 化。これは「漢字圏特有の concept-role 分離 pattern」として記録すべき差異。
+3. **漢字 bridge の continuum**: 字形完全一致 (資本主義) → 一文字差 (中央集権↔中央集權, 国家↔國家, 反社会↔反社會) → 字形差なく異字 (數位 ja-zh tw 完全一致) など、ja-zh-tw 漢字 bridge には gradient 構造があることが具体的に確認できた。
+
+### parent 側との関係
+
+parent `correspondences.yaml` の zh-tw 列 pending references 26 件 → **0 件**に解消。
+全 registry annotation が child-wiki page に対応する状態を達成。
+
 ## [2026-05-28 17:30] ingest | 第二輪 ingest: GitHub API workaround で繁體中文資源取得
+
 
 
 
@@ -50,6 +102,7 @@
 新規概念 ([[仁工智慧]] [[地神]] [[關懷六力]] [[對齊大會]] 等) は en / ja 側にも対応がある可能性高い。次回 parent `correspondences.yaml` の update が必要。
 
 ## [2026-05-27 14:30] ingest | 第一輪 ingest: 繁體中文最新 Plurality 材料
+
 
 
 

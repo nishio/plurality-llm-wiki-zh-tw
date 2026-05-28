@@ -3,6 +3,7 @@
 # Format: <YYYY-MM-DD HH:MM>\t<type>\t<title>
 # Regenerate: python3 scripts/refresh_logs.py
 
+2026-05-28 21:30	ingest	第三輪: pending pages 解消 (Section 4 章 + foil 概念 + Section 5 メカニズム + JA 起源概念)
 2026-05-28 17:30	ingest	第二輪 ingest: GitHub API workaround で繁體中文資源取得
 2026-05-27 14:30	ingest	第一輪 ingest: 繁體中文最新 Plurality 材料
 2026-05-27 12:00	ingest	初期化：CLAUDE.md, index.md, 初の concept と source
